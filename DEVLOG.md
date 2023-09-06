@@ -43,3 +43,7 @@ It's massive/trying to shrink down
 Okay got it to RN nice
 
 Main things I need to do are sqlite store and then sideload/get the thing on my phone, rest of it is standard dev
+
+7:45 PM
+
+yeah sadly I'm mad spent today, will hit this up tomorrow
