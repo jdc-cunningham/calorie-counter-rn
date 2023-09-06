@@ -47,3 +47,11 @@ Main things I need to do are sqlite store and then sideload/get the thing on my 
 7:45 PM
 
 yeah sadly I'm mad spent today, will hit this up tomorrow
+
+7:59 PM
+
+oh yeah I forgot, this is the UI of the PWA one that I've been using
+
+<img src="./devlog-images/pwa-ui.JPG"/>
+
+So I'll just reproduce that
