@@ -1,3 +1,17 @@
+09/24/2023
+
+8:31 PM
+
+lost motivation but going to get this starter app on my phone at least
+
+9:03 PM
+
+alright, plugged phone in, usb debugging, npm run android detects the phone, installs apk on it, sick
+
+easy for smooth brain monke like me
+
+---
+
 09/05/2023
 
 7:22 PM
